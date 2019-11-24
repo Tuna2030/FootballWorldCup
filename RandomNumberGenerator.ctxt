@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RandomNumberGenerator
+comment0.text=\r\n\ This\ is\ a\ Football\ World\ Cup\ program\ RandomNumberGenerator\ class.\ This\ classes\ getRandom()\ method\ returns\ a\ random\ number\ between\ given\ integer\ numbers.\r\n\r\n\ @author\ Tuna\ Rezaiazar\r\n\ @version\ 09/05/2018\r\n
+comment1.params=
+comment1.target=RandomNumberGenerator()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ RandomNumberGenerator\r\n
+comment2.params=min\ max
+comment2.target=int\ getRandom(int,\ int)
+comment2.text=\r\n\ This\ method\ get\ 2\ numbers\ as\ parameters\ and\ returns\ a\ random\ number\ in\ between\ these\ parameters.\r\n\r\n\ @param\ \ min\ \ minimum\ number\ that\ random\ number\ can\ be.\r\n\ @param\ \ max\ \ minimum\ number\ that\ random\ number\ can\ be.\r\n\ @return\ \ \ \ a\ random\ number\ between\ parameters.\r\n
+numComments=3

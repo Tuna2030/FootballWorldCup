@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ This\ is\ a\ Football\ World\ Cup\ program\ Player\ class.\ Player\ class\ contains\ the\ player\ name\ and\ number\ of\ goals.\r\n\r\n\ @author\ Tuna\ Rezaiazar\r\n\ @version\ 09/05/2018\r\n
+comment1.params=
+comment1.target=Player()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Player\r\n
+comment2.params=
+comment2.target=int\ getGoals()
+comment2.text=\r\n\ This\ method\ returns\ the\ number\ of\ goals\ of\ a\ Player.\r\n\r\n\ @return\ \ \ \ the\ number\ of\ goals.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\r\n\ This\ method\ returns\ the\ name\ of\ a\ Player.\r\n\r\n\ @return\ \ \ \ the\ name.\r\n
+comment4.params=goal
+comment4.target=void\ setGoal(int)
+comment4.text=\r\n\ This\ method\ adds\ the\ goals\ to\ the\ Players\ goal\ field.\r\n\r\n\ @param\ goal\ \ \ \ goals\ that\ are\ achived\ in\ a\ match.\r\n
+comment5.params=name
+comment5.target=boolean\ setName(java.lang.String)
+comment5.text=\r\n\ This\ method\ saves\ the\ name\ to\ the\ Players\ name\ field.\ Before\ saving\ the\ name\ method\ checks\ if\ the\ name\ variable\ fulfills\ the\ requirements.\r\n\r\n\ @param\ name\ \ \ \ name\ that\ needs\ to\ saved\ for\ the\ Player\ object.\r\n
+numComments=6
