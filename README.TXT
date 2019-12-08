@@ -10,4 +10,4 @@ invoked to start the game.
 AUTHORS: Tuna Rezaiazar
 
 USER INSTRUCTIONS: First create a object from Game class, then invoke the playGame() method to start the game. Teams for the league will be automatically loaded from teams.txt file.
-Afterwards, 2 player names should be inputted for each team in the console and options can be picked from the play menu.
+2 player names should be inputted for each team in the console and options can be picked from the play menu.
